@@ -1,6 +1,6 @@
 # Sausage casserole
 
-This is my go-to casserole, serves six people.  It refrigerates well once it's cooled and one portion takes around four minutes to reheat in the microwave.  You need a lidded cast iron enamelled casserole dish of around five litre capacity, access to a hob, and access to a gas or electric oven.
+This is my go-to casserole, serves six people.  It refrigerates well once it's cooled and one portion takes around four minutes to reheat in the microwave.  You need a lidded casserole dish of around five litre capacity, access to a hob, and access to a gas or electric oven.
 
 Prep time 20m, cook time 2-4 hours depending on how hot you set your oven.
 
@@ -29,6 +29,7 @@ Prep time 20m, cook time 2-4 hours depending on how hot you set your oven.
 8. Chop the potatoes into chunk a little smaller than you might use for a "roastie" but certainly bigger than dauphinoise, and spread them in a layer on top of the carrots.  If there are gaps in the layer, chop and add more potatoes.
 9. Arrange the sausages on top of the potatoes, trying to have a bit of space around each one.
 10. Put the lid on the casserole dish and transfer it to the oven.
+11. If your casserole dish is thin-walled stainless steel, remove the lid 30 minutes before the end of the cooking.  Users of heavy cast iron pots need not do this because your lid will radiate sufficient heat to brown the sausages.
 
 ### Metadata
 
