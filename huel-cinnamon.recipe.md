@@ -14,6 +14,6 @@ Add water, then dry ingredients.  Secure cap and shake thoroughly.  Leave to thi
 
 ## Metadata
 
-tags: huel
+tags: huel, vegan
 
 author: Helen Griffiths
