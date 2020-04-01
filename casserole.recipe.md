@@ -4,7 +4,7 @@ This is my go-to casserole, serves six people.  It refrigerates well once it's c
 
 Prep time 20m, cook time 2-4 hours depending on how hot you set your oven.
 
-## Ingredients
+### Ingredients
 
 * 1 clove garlic, or equivalent in garlic paste
 * 3 tins tinned plum tomatoes
@@ -17,7 +17,7 @@ Prep time 20m, cook time 2-4 hours depending on how hot you set your oven.
 * 1 tablespoon vegetable oil
 * 12 unit sausages
  
-## Directions
+### Directions
 
 1. Preheat the oven to gas 4-7.  At gas 7, you need to remove the casserole after two hours, at gas 4, remove after four hours.
 2. Drain the beans.
@@ -31,7 +31,7 @@ Prep time 20m, cook time 2-4 hours depending on how hot you set your oven.
 10. Put the lid on the casserole dish and transfer it to the oven.
 11. If your casserole dish is thin-walled stainless steel, remove the lid 30 minutes before the end of the cooking.  Users of heavy cast iron pots need not do this because your lid will radiate sufficient heat to brown the sausages.
 
-## Metadata
+### Metadata
 
 tags: casserole, oven-to-table, hob-to-oven, flexible cooking time, reheats well
 

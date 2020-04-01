@@ -1,6 +1,6 @@
 # Cinnamon Huel
 
-## Ingredients
+### Ingredients
 
 * 45 g Huel Black chocolate
 * 50 g Huel unflavoured and unsweetened
@@ -8,11 +8,11 @@
 * 1 tsp ground cinnamon
 * water, to fill shaker
 
-## Directions
+### Directions
 
 Add water, then dry ingredients.  Secure cap and shake thoroughly.  Leave to thicken overnight.
 
-## Metadata
+### Metadata
 
 tags: huel, vegan
 

@@ -6,14 +6,14 @@ You need one of those rectangular dishes that's about 5cm deep, mine's 25cm by 3
 
 Prep time 15m, cook time about 60m, could have been less if I'd boiled the pasta first.
 
-## Ingredients
+### Ingredients
 
 * 2 tins tinned ratatouille
 * 2 tins mixed bean salad
 * 1 packet lasagne sheets
 * 1 tsp vegetable oil
 
-## Directions
+### Directions
 
 1. Preheat oven to gas 7.
 2. Select enough lasagne sheets to cover your dish twice.  Gaps are allowed.  Blanche the lasagne sheets in hot water or pre-cook according to the instructions on the packet.
@@ -25,7 +25,7 @@ Prep time 15m, cook time about 60m, could have been less if I'd boiled the pasta
 8. Layer the ratatouille on top of the second lasagne sheets.
 9. Cover the dish with foil and place in the oven.
 
-## Metadata
+### Metadata
 
 tags: lasagne, vegan, oven-to-table, crisis, long-life ingredients, no fresh ingredients, lockdown, prepping
 
