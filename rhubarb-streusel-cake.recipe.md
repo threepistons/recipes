@@ -72,6 +72,10 @@ D. Layer the above three things into the cake tin for baking.
 9. Put the cake tin in the oven for one hour.
 10. Cover the cake tin with foil and return to the oven for one hour.
 
+### Serving suggestion
+
+Serve warm or cold, with thick unflavoured yoghurt or vanilla icecream.
+
 ### Metadata
 
 tags: contains nuts, contains dairy, vegetarian
