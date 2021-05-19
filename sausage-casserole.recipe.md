@@ -19,7 +19,7 @@ Prep time 20m, cook time 2-4 hours depending on how hot you set your oven.
 
 ### Equipment
 
-* 1 lidded casserole dish of around five litre capacity.
+* A lidded casserole dish of around five litre capacity.
 
 ### Directions
 

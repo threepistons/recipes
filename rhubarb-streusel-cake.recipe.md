@@ -22,7 +22,7 @@ You are advised to read [Tips and gotchas > Cakes](tips-gotchas.recipe.md#cakes)
 - 20cm diameter springform or silicone cake tin
 - baking paper
 - tin foil
-- roasting tray, ideally pyrex to resist the oxalic acid from the rhubarb
+- roasting tray, ideally pyrex as it's inert to the oxalic acid from the rhubarb
 - optional but helpful, dredging spoon
 - optional but really helpful, large metal serving spoon
 - two large mixing bowls
