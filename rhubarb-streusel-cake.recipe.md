@@ -27,7 +27,7 @@ You are advised to read [Tips and gotchas > Cakes](tips-gotchas.recipe.md#cakes)
 - optional but really helpful, large metal serving spoon
 - two large mixing bowls
 - two additional containers, one suitable for four eggs to be beaten in and the other to hold less than 500ml of dry ingredients
-- a coffee or food grinder that you are prepared to put almonds in, or buy the almonds pre-ground
+- a coffee or food grinder that you are willing to put almonds in, or buy the almonds pre-ground
 
 ### Directions
 
