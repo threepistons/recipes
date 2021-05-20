@@ -29,7 +29,7 @@ Anything not on that list will be listed in the equipment section of the recipe.
 - Very small volumes will be given as *spoons*:
   - tsp: 5ml teaspoon
   - tbsp: 15ml tablespoon
-- Oven settings are given in both [British gas marks](https://en.wikipedia.org/wiki/Gas_Mark) and &deg;C temperatures in newer recipes; older ones only have the gas marks and will be updated as I recook them. The temperature is read from a thermometer hanging from a shelf in my gas oven, YMMV especially if you have a fan-assisted oven.
+- Oven settings are given in both [British gas marks](https://en.wikipedia.org/wiki/Gas_Mark) and &deg;C temperatures in newer recipes; [older ones only have the gas marks and will be updated](https://github.com/threepistons/recipes/issues/2) when I next cook them. The temperature is read from a thermometer hanging from a shelf in my gas oven, YMMV especially if you have a fan-assisted oven.
 
 ## Pseudo-units
 
