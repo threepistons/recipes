@@ -2,6 +2,8 @@
 
 ## Assumptions
 
+### Equipment
+
 You have the following equipment:
 
 - a refrigerator
