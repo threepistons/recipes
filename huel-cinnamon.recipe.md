@@ -1,5 +1,9 @@
 # Cinnamon Huel
 
+### Equipment
+
+* Huel shaker
+
 ### Ingredients
 
 * 45 g Huel Black chocolate
@@ -7,10 +11,6 @@
 * 2 g Huel toffee flavour boost, optional
 * 1 tsp ground cinnamon
 * water, to fill shaker
-
-### Equipment
-
-* Huel shaker
 
 ### Directions
 

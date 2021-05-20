@@ -4,6 +4,10 @@ This is my go-to casserole, serves six people.  It refrigerates well once it's c
 
 Prep time 20m, cook time 2-4 hours depending on how hot you set your oven.
 
+### Equipment
+
+* A lidded casserole dish of around five litre capacity.
+
 ### Ingredients
 
 * 1 clove garlic, or equivalent in garlic paste
@@ -16,10 +20,6 @@ Prep time 20m, cook time 2-4 hours depending on how hot you set your oven.
 * 1 count stock cube/jelly, *not* made up with water
 * 1 tbsp vegetable oil
 * 12 count sausages
-
-### Equipment
-
-* A lidded casserole dish of around five litre capacity.
 
 ### Directions
 

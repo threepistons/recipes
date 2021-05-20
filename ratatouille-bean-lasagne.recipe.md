@@ -4,16 +4,16 @@ This came about during COVID-19 self-isolation when I had no fresh food left.  A
 
 Prep time 15m, cook time about 60m, could have been less if I'd boiled the pasta first.
 
+### Equipment
+
+- Rectangular roasting dish that's about 5cm deep, mine's 25cm by 30cm and made of pyrex.
+
 ### Ingredients
 
 * 2 tins tinned ratatouille
 * 2 tins mixed bean salad
 * 1 packet lasagne sheets
 * 1 tsp vegetable oil
-
-### Equipment
-
-- Rectangular roasting dish that's about 5cm deep, mine's 25cm by 30cm and made of pyrex.
 
 ### Directions
 

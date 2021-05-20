@@ -4,6 +4,18 @@ Adapted from GitHub:@ChrisRitson's handwritten recipe, with units standardised a
 
 You are advised to read [Tips and gotchas > Cakes](tips-gotchas.recipe.md#cakes), [Units and assumptions > Pseudo-units > juiced_fruit](units-assumptions.recipe.md#juiced_fruit), and [Tips and gotchas > Lemon and lime juices > Bottled juice in place of "juice of one lemon"](tips-gotchas.recipe.md#bottled-juice-in-place-of-juice-of-one-lemon)
 
+### Equipment
+
+- 20cm diameter springform or silicone cake tin
+- baking paper
+- tin foil
+- roasting tray, ideally pyrex as it's inert to the oxalic acid from the rhubarb
+- optional but helpful, dredging spoon
+- optional but really helpful, large metal serving spoon
+- two large mixing bowls
+- two additional containers, one suitable for four eggs to be beaten in and the other to hold less than 500ml of dry ingredients
+- a coffee or food grinder that you are willing to put almonds in, or buy the almonds pre-ground
+
 ### Ingredients
 
 * 600 g fresh rhubarb, in 2cm chunks
@@ -16,18 +28,6 @@ You are advised to read [Tips and gotchas > Cakes](tips-gotchas.recipe.md#cakes)
 * 4 count medium eggs, beaten
 * 100 g almonds, ground
 * 1 pinch salt
-
-### Equipment
-
-- 20cm diameter springform or silicone cake tin
-- baking paper
-- tin foil
-- roasting tray, ideally pyrex as it's inert to the oxalic acid from the rhubarb
-- optional but helpful, dredging spoon
-- optional but really helpful, large metal serving spoon
-- two large mixing bowls
-- two additional containers, one suitable for four eggs to be beaten in and the other to hold less than 500ml of dry ingredients
-- a coffee or food grinder that you are willing to put almonds in, or buy the almonds pre-ground
 
 ### Directions
 
@@ -80,4 +80,5 @@ Serve warm or cold, with thick unflavoured yoghurt or vanilla icecream.
 
 tags: contains nuts, contains dairy, vegetarian
 
-author: Chris Ritson, Helen Griffiths
+author: Chris Ritson
+author: Helen Griffiths
