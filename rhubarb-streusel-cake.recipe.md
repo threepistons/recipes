@@ -33,12 +33,7 @@ You are advised to read [Tips and gotchas > Cakes](tips-gotchas.recipe.md#cakes)
 
 Preheat the oven to gas mark 5 (200&deg;C). Line the cake tin with baking paper.
 
-This comes in four stages:
-
-A. Roast the rhubarb.
-B. Make the streusel.
-C. Make the cake batter.
-D. Layer the above three things into the cake tin for baking.
+This cake is made in four stages: A) roast the rhubarb, B) make the streusel, C) make the cake batter, and D) layer the products of A-C into the cake tin for baking.
 
 #### A: Roast the rhubarb
 
@@ -66,9 +61,9 @@ D. Layer the above three things into the cake tin for baking.
 3. Scatter half of the streusel evenly into the cake tin.
 4. Scatter half of the rhubarb evenly into the cake tin.
 5. Spread the remaining batter on top of the layers in the cake tin and smooth it.
-6. Scatter most of the remaining streusel on top of the layers in the cake tin.
-7. Scatter the remaining rhubarb on top of the layers in the cake tin.
-8. Add the remaining streusel on top of the layers in the cake tin.
+6. Scatter most of the remaining streusel into the cake tin.
+7. Scatter the remaining rhubarb into the cake tin.
+8. Scatter the last of the streusel into the cake tin.
 9. Put the cake tin in the oven for one hour.
 10. Cover the cake tin with foil and return to the oven for one hour.
 
