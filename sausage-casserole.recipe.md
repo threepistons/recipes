@@ -6,7 +6,7 @@ Prep time 20m, cook time 2-4 hours depending on how hot you set your oven.
 
 ### Equipment
 
-* A lidded casserole dish of around five litre capacity.
+* A lidded hob-safe casserole dish of around five litre capacity.
 
 ### Ingredients
 
