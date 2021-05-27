@@ -16,7 +16,7 @@ Prep time 20m, cook time 2-4 hours depending on how hot you set your oven.
 * 1 tin tinned black eyed beans, or another dark bean
 * 500 g carrots, skin left on
 * 600 g potatoes, skin left on
-* 1 whole red onion
+* 1 whole onion
 * 1 count stock cube/jelly, *not* made up with water
 * 1 tbsp vegetable oil
 * 12 count sausages
