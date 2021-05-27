@@ -17,8 +17,9 @@ WARNING: Turning the hob too high or neglecting to stir enough will result in bu
 ### Ingredients
 
 * 450-500 g diced beef, can be frozen
-* 1 tin tinned tomatoes
+* 1 tin tinned plum tomatoes
 * 2 tins tinned ratatouille
+* 2 tins tinned mixed beans, or kidney beans. See [Tips and gotchas > tinned beans](tips-gotchas.recipe.md#tinned-beans)
 * 1 clove garlic, crushed or diced
 * 1 whole onion, diced
 * 2 tbsp cayenne powder

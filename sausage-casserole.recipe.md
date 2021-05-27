@@ -12,8 +12,7 @@ Prep time 20m, cook time 2-4 hours depending on how hot you set your oven.
 
 * 1 clove garlic, or equivalent in garlic paste
 * 3 tins tinned plum tomatoes
-* 1 tin tinned butterbeans, or another white bean
-* 1 tin tinned black eyed beans, or another dark bean
+* 2 tins tinned mixed beans, or one tin dark beans (e.g. kidney) and one tin light beans (e.g. butter beans). See [Tips and gotchas > tinned beans](tips-gotchas.recipe.md#tinned-beans)
 * 500 g carrots, skin left on
 * 600 g potatoes, skin left on
 * 1 whole onion

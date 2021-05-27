@@ -24,3 +24,7 @@ Bottled lemon and lime juices are available at various concentrations, so there 
 ### Long-term storage of bottled juice
 
 Once I open my juice, it will degrade within a few weeks. To avoid wasting it, I freeze the juice as ice cubes, with one cube containing half a fruit's equivalant of juice. When I want lemon or lime juice, I let the correct number of cubes melt.
+
+## Tinned beans
+
+My local Lidl have stopped stocking butter beans, kidney beans, and similar single-type tins of beans. Instead, they have tins of mixed beans. Where I used to specify bean types, I now use the mixed beans, but will suggest in each recipe a (possibly untested) substitution for if you can't get mixed beans.
