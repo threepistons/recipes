@@ -3,6 +3,7 @@
 Adapted from https://www.dovesfarm.co.uk/recipes/gluten-free-cheese-sauce
 
 This is a dish component, you don't eat it on its own but use it as part of something else. Typical use cases include:
+
  * acting as the milk sauce layer in a lasagne;
  * pouring over cauliflower or pasta to make cauliflower or macaroni cheese;
  * when made with blue stilton, served as the "blue cheese sauce" with a steak.
