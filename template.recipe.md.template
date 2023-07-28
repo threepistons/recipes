@@ -1,0 +1,20 @@
+# Recipe name goes here
+
+### Equipment
+
+* list of kitchen items that are not in units-assumptions.recipe.md
+* remove this section if there are no items to add
+
+### Ingredients
+
+* integer unit item name, optional descriptive test
+
+### Directions
+
+Freeform.  Numbered lists are nice.
+
+### Metadata
+
+tags: comma, separated, items
+
+author: Your Name, Upstream Author's Name
