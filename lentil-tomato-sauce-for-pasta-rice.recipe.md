@@ -1,6 +1,6 @@
 # Lentil and tomato sauce
 
-This is adapted from the Commie Chef column of the [Morning Star](https://morningstaronline.co.uk/), published on the occasion of the 137th [Durham Miners' Gala](https://www.friendsofdurhamminersgala.org/), 8th July 2023.  The ingredients with a % next to them are my addition.  The original writer suggested that this be eaten with with spaghetti, but I found that a portion of brown rice or non-spaghetti pasta works just as well.
+This is adapted from the Commie Chef column of the [Morning Star](https://morningstaronline.co.uk/), published on the occasion of the 137th [Durham Miners' Gala](https://www.friendsofdurhamminersgala.org/), 8th July 2023.  The ingredients with a % next to them are my addition.  The original writer suggested that this be eaten with spaghetti, but I found that a portion of brown rice or non-spaghetti pasta works just as well.
 
 Serves four.
 
@@ -9,7 +9,7 @@ Serves four.
 * 1 large onion, chopped
 * 2 cloves garlic, crushed or grated
 * 1 medium carrot, scrubbed and diced
-* 110 g green or brown lentils
+* 110 g green or brown lentils, soaked in water for 24 hours in the fridge and drained
 * 0.5 can chopped tomatoes
 * 1 tbsp tomato puree
 * 1 tsp paprika, I used smoked paprika.
