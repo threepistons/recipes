@@ -20,6 +20,7 @@ You have the following equipment:
 - kitchen paper
 - can opener
 - steel skewer to test that things are cooked properly
+- a 16cm or so diameter saucepan
 
 Anything not on that list will be listed in the equipment section of the recipe.
 
