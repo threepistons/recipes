@@ -10,6 +10,9 @@ This is a dish component, you don't eat it on its own but use it as part of some
  
 The amount below makes enough cheese sauce for three-to-four people to have macaroni cheese.
 
+### Equipment
+ * Saucepan
+
 ### Ingredients
 
  * 300 ml milk, in a measuring vessel
