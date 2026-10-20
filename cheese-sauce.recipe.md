@@ -24,10 +24,10 @@ The amount below makes enough cheese sauce for three-to-four people to have maca
 
 1. Put all the milk bar 50ml into the pan and start heating it.
 2. Mix the corn flour with the dry seasonings and add to the 50ml of milk still in the measuring vessel. Stir until the mixture is uniform and lump-free.
-4. When the milk in the pan starts to boil, remove the pan from the heat.
-5. Slowly add the corn flour mixture into the pan of hot milk, stirring continuously.
-6. Return the pan to the heat and stir continuously whilst the sauce thickens.
-7. Take the pan off the heat and stir in the cheese until the sauce is uniform in appearance and add the worcester sauce.  You must not boil the sauce once you start adding cheese.
+3. When the milk in the pan starts to boil, remove the pan from the heat.
+4. Slowly add the corn flour mixture into the pan of hot milk, stirring continuously.
+5. Return the pan to the heat and stir continuously whilst the sauce thickens.
+6. Take the pan off the heat and stir in the cheese until the sauce is uniform in appearance and add the worcester sauce.  You must not boil the sauce once you start adding cheese.
 
 ### Metadata
 
