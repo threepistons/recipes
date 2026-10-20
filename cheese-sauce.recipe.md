@@ -8,10 +8,7 @@ This is a dish component, you don't eat it on its own but use it as part of some
  * pouring over cauliflower or pasta to make cauliflower or macaroni cheese;
  * when made with blue stilton, served as the "blue cheese sauce" with a steak.
  
-The amount below makes enough cheese sauce for three-to-four people to have macaroni cheese.
-
-### Equipment
- * Saucepan
+The amount below makes enough cheese sauce for two people to have macaroni cheese.
 
 ### Ingredients
 
