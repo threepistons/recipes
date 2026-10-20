@@ -40,3 +40,7 @@ Anything not on that list will be listed in the equipment section of the recipe.
 #### juiced_fruit
 
 `juiced_fruit` represents the volume of juice obtained by the ad hoc juicing of one typical specimen of a fruit. For example, `1/2 juiced_fruit lemon juice` would often be stated as "juice of half a lemon" in a non-Kookbook recipe. I decided not to use `1/2 count lemon, juiced` because the ingredients list should reflect that I want the juice, not the lemon itself, which allows the possibility that juices can come in a bottle. Conversion of `juiced_fruit` into an appropriate volume of bottled juice is discussed at [Tips and gotchas > Lemon and lime juices](tips-gotchas.recipe.md#lemon-and-lime-juices).
+
+#### to_taste
+
+You'll want to put some in, but I am not specifying how much.
